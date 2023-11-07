@@ -1,0 +1,7 @@
+
+#Ignore files:
+**/Makefile
+**/*.elf
+
+#Ignore file in folder
+*.vscode/
